@@ -68,3 +68,10 @@ Regarding cost-benefit analysis, I found that the XGBoost model from method 2 sh
 **Next step of the future work**
 - The model from this work can improve the classification between r/911fox and r/ncis but it has some misclassification. So, Reddit should have the word recommendation when the user post on Reddit to prevent misspelling and increase the quality of data when the text from the user inputs to the model. 
 - Since the common word removal cannot develop the model, so the next step should be the setting the hyperparameter for all regression model (logistic regression, Naive Bays and RandonForest Classifier) to get the best parameter.
+
+---
+## Deploy model using Flask API
+
+On this page, the user can upload the dataset and download the result of prediction.
+ภาพถ่ายหน้าจอ 2564-04-28 เวลา 09.11.35![image](https://user-images.githubusercontent.com/71622450/116411544-050d0c00-a860-11eb-8cd2-e55419b97a05.png)
+
