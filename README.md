@@ -1,7 +1,7 @@
 # DSI_Capstone-Project
 
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Web APIs & Classification
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Capstone Project: Customer response prediction
 
 
 ### Background
@@ -63,11 +63,6 @@ Regarding cost-benefit analysis, I found that the XGBoost model from method 2 sh
 - According to the cost-benefit analysis, the model can help the bank to identify the target user which gives the financial benefit. Moreover, this model can help the bank to maintain the relationship with customers because some customer may be annoyed by the telemarketing and if the bank contacts them many times they might close the bank account.
 - From EDA, more contact does not increase the chance of success and the average contact was only 3 times. Therefore, I would like to recommend digital marketing to work with telemarketing. Digital marketing helps you connect with your leads, while telemarketing makes it personal. Digital marketing begins with identifying the right target audience. After you have connected with those who are most likely to become customers online, consider taking the personal aspect to the next level by connecting with them via a phone call. Moreover, Digital marketing helps you gather information on your target audience so that telemarketers can better understand their needs
 - Bank should also contact people who have an age over 40 years old because this group has a high success rate.
-
-
-**Next step of the future work**
-- The model from this work can improve the classification between r/911fox and r/ncis but it has some misclassification. So, Reddit should have the word recommendation when the user post on Reddit to prevent misspelling and increase the quality of data when the text from the user inputs to the model. 
-- Since the common word removal cannot develop the model, so the next step should be the setting the hyperparameter for all regression model (logistic regression, Naive Bays and RandonForest Classifier) to get the best parameter.
 
 ---
 ## Deploy model using Flask API
