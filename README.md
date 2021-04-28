@@ -73,5 +73,5 @@ Regarding cost-benefit analysis, I found that the XGBoost model from method 2 sh
 ## Deploy model using Flask API
 
 On this page, the user can upload the dataset and download the result of prediction.
-ภาพถ่ายหน้าจอ 2564-04-28 เวลา 09.11.35![image](https://user-images.githubusercontent.com/71622450/116411544-050d0c00-a860-11eb-8cd2-e55419b97a05.png)
+[image](https://user-images.githubusercontent.com/71622450/116411544-050d0c00-a860-11eb-8cd2-e55419b97a05.png)
 
